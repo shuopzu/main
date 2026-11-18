@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ext-openssl": "*",
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
